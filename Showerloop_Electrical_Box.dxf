@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-113.7501345879085
+475.3775979951624
  22
-20.59617821532545
+248.8684357602486
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-214.3079458744975
+773.8252924420231
  41
 2.110552763819095
  42
@@ -175179,86 +175179,6 @@ ByLayer
 100
 AcDbBlockReference
   2
-VALVE
- 10
--84.98881861610732
- 20
--70.3355740271233
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-0
- 45
-0
-  0
-INSERT
-  5
-1201
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
-VALVE-0
- 10
--47.98937602892267
- 20
--106.0528577127719
- 30
-0
- 41
-1
- 42
-1
- 43
-0
- 50
-0
- 70
-    1
- 71
-    1
- 44
-0
- 45
-0
-  0
-INSERT
-  5
-1202
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbBlockReference
-  2
 Ball Valve
  10
 192.8733319025036
@@ -175285,7 +175205,7 @@ Ball Valve
   0
 SPLINE
   5
-1203
+1201
 100
 AcDbEntity
   8
@@ -175369,7 +175289,7 @@ AcDbSpline
   0
 SPLINE
   5
-1204
+1202
 100
 AcDbEntity
   8
@@ -175453,7 +175373,7 @@ AcDbSpline
   0
 SPLINE
   5
-1205
+1203
 100
 AcDbEntity
   8
@@ -175537,7 +175457,7 @@ AcDbSpline
   0
 MTEXT
   5
-1206
+1204
 100
 AcDbEntity
   8
@@ -175583,7 +175503,7 @@ iso
   0
 MTEXT
   5
-1207
+1205
 100
 AcDbEntity
   8
@@ -175629,7 +175549,7 @@ iso
   0
 MTEXT
   5
-1208
+1206
 100
 AcDbEntity
   8
@@ -175675,7 +175595,7 @@ iso
   0
 MTEXT
   5
-1209
+1207
 100
 AcDbEntity
   8
@@ -175721,7 +175641,7 @@ iso
   0
 MTEXT
   5
-120A
+1208
 100
 AcDbEntity
   8
@@ -175767,7 +175687,7 @@ iso
   0
 MTEXT
   5
-120B
+1209
 100
 AcDbEntity
   8
@@ -175813,7 +175733,7 @@ iso
   0
 MTEXT
   5
-120C
+120A
 100
 AcDbEntity
   8
@@ -175859,7 +175779,7 @@ iso
   0
 MTEXT
   5
-120D
+120B
 100
 AcDbEntity
   8
@@ -175905,7 +175825,7 @@ iso
   0
 MTEXT
   5
-120E
+120C
 100
 AcDbEntity
   8
@@ -175951,7 +175871,7 @@ iso
   0
 MTEXT
   5
-120F
+120D
 100
 AcDbEntity
   8
@@ -175997,7 +175917,7 @@ iso
   0
 MTEXT
   5
-1210
+120E
 100
 AcDbEntity
   8
@@ -176043,7 +175963,7 @@ iso
   0
 MTEXT
   5
-1211
+120F
 100
 AcDbEntity
   8
@@ -176089,7 +176009,7 @@ iso
   0
 MTEXT
   5
-1212
+1210
 100
 AcDbEntity
   8
@@ -176135,7 +176055,7 @@ iso
   0
 MTEXT
   5
-1213
+1211
 100
 AcDbEntity
   8
@@ -176181,7 +176101,7 @@ iso
   0
 MTEXT
   5
-1214
+1212
 100
 AcDbEntity
   8
@@ -176227,7 +176147,7 @@ iso
   0
 MTEXT
   5
-1215
+1213
 100
 AcDbEntity
   8
@@ -176273,7 +176193,7 @@ iso
   0
 MTEXT
   5
-1216
+1214
 100
 AcDbEntity
   8
@@ -176319,7 +176239,7 @@ iso
   0
 MTEXT
   5
-1217
+1215
 100
 AcDbEntity
   8
@@ -176365,7 +176285,7 @@ iso
   0
 MTEXT
   5
-1218
+1216
 100
 AcDbEntity
   8
@@ -176411,7 +176331,7 @@ iso
   0
 MTEXT
   5
-1219
+1217
 100
 AcDbEntity
   8
@@ -176457,7 +176377,7 @@ iso
   0
 MTEXT
   5
-121A
+1218
 100
 AcDbEntity
   8
@@ -176503,7 +176423,7 @@ iso
   0
 MTEXT
   5
-121B
+1219
 100
 AcDbEntity
   8
@@ -176549,7 +176469,7 @@ iso
   0
 MTEXT
   5
-121C
+121A
 100
 AcDbEntity
   8
@@ -176595,7 +176515,7 @@ iso
   0
 MTEXT
   5
-121D
+121B
 100
 AcDbEntity
   8
@@ -176641,7 +176561,7 @@ iso
   0
 MTEXT
   5
-121E
+121C
 100
 AcDbEntity
   8
